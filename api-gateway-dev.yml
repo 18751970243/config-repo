@@ -3,6 +3,7 @@ zuul:
     myProduct:
       path: /myProduct/**
       serviceId: product
+  ignored-patterns: /**/product/list
 management:
   security:
     enabled: false
