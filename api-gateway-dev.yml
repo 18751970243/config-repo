@@ -6,4 +6,4 @@ zuul:
 management:
   security:
     enabled: false
-env: test2
+env: test3
