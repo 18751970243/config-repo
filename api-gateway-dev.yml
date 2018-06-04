@@ -1,7 +1,7 @@
 zuul:
   routes:
     myProduct:
-      path: /myProduct/**
+      path: /myProduct1/**
       serviceId: product
 management:
   security:
