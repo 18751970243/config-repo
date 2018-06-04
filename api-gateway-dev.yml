@@ -5,6 +5,3 @@ zuul:
       serviceId: product
   ignored-patterns:
     - /product/list
-management:
-  security:
-    enabled: false
